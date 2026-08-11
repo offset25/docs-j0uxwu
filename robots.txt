@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-a7r2fx.leogaming.cfd/sitemap.xml
